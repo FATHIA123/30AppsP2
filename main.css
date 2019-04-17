@@ -58,8 +58,8 @@ html {
   }
 .playing {
     transform: scale(1.1);
-    border-color: black;
-    box-shadow: 0 0 1rem grey;
+    border-color: #ffc600;
+    box-shadow: 0 0 10rem #ffc600;
   }
 
 kbd {
